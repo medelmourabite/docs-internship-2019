@@ -60,3 +60,21 @@ L'agence web française SensioLabs est à l'origine du framework Sensio Framewor
 
 1. ## MySQL
     MySQL est un système de gestion de bases de données relationnelles (SGBDR). Il fait partie des logiciels de gestion de base de données les plus utilisés au monde, autant par le grand public (applications web principalement) que par des professionnels, en concurrence avec Oracle, PostgreSQL et Microsoft SQL Server. 
+
+1. ## Amazon:
+    Amazon Web Services (AWS) est une division du groupe américain de commerce électronique Amazon.com, spécialisée dans les services de cloud computing à la demande pour les entreprises et particuliers. En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.
+
+    Lancé officiellement en 2006 par Andy Jassy, Amazon Web Services fournit des services en ligne à d'autres sites internet ou applications clientes. La plupart d'entre eux ne sont pas directement exposés à l'utilisateur final, mais offrent des fonctionnalités que d'autres développeurs peuvent utiliser à travers des API. En 2017, AWS propose plus de 90 services, comprenant le calcul, le stockage, le réseau, la base de données, l'analyse de données, des services applicatifs, du déploiement, de la gestion de système, de la gestion d'applications mobiles, des outils pour les développeurs et pour l'internet des objets. Les services les plus populaires sont Amazon Elastic Compute Cloud (EC2) et Amazon Simple Storage Service (S3).
+    
+    1. Amazon Elastic Compute Cloud (EC2): est un service proposé par Amazon permettant à des tiers de louer des serveurs sur lesquels exécuter leurs propres applications web. 
+    1. Amazon Simple Storage Service (S3)) est un site d'hébergement de fichiers proposé par Amazon Web Services. Amazon S3 propose des services de stockage à travers des services Web (REST, SOAP et BitTorrent)
+    2. Amazon Simple Email Service (SES) est un service d'envoi de courrier électronique basé sur un cloud conçu pour aider les spécialistes du marketing numérique et les développeurs d'applications à envoyer des courriels de marketing, de notification et transactionnels. C'est un service fiable et économique pour les entreprises de toutes tailles qui utilisent le courrier électronique pour rester en contact avec leurs clients.
+
+1. ## Github
+    GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. Ce site est développé en Ruby on Rails et Erlang par Chris Wanstrath, PJ Hyett et Tom Preston-Werner. GitHub propose des comptes professionnels payants, ainsi que des comptes gratuits pour les projets de logiciels libres. Le site assure également un contrôle d'accès et des fonctionnalités destinées à la collaboration comme le suivi des bugs, les demandes de fonctionnalités, la gestion de tâches et un wiki pour chaque projet.
+
+1. ## Werker:
+    Wercker cible les entreprises où les développeurs se concentrent sur les applications Web. Il sert d'intermédiaire entre les référentiels d'hébergement de code source tels que GitHub et les serveurs cloud tels qu'Amazon Web Services. Chaque fois qu'un développeur modifie sa base de code dans Git, Wercker récupère le code, en crée une version dans un conteneur pour l'isoler, le teste pour rechercher les erreurs éventuelles, puis notifie à l'utilisateur s'il a réussi ou échoué.
+
+1. ## Jira:
+    Jira est un système de suivi de bugs, un système de gestion des incidents, et un système de gestion de projets développé par Atlassian.
