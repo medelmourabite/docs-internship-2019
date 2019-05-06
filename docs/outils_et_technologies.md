@@ -69,6 +69,7 @@ L'agence web française SensioLabs est à l'origine du framework Sensio Framewor
     1. Amazon Elastic Compute Cloud (EC2): est un service proposé par Amazon permettant à des tiers de louer des serveurs sur lesquels exécuter leurs propres applications web. 
     1. Amazon Simple Storage Service (S3)) est un site d'hébergement de fichiers proposé par Amazon Web Services. Amazon S3 propose des services de stockage à travers des services Web (REST, SOAP et BitTorrent)
     2. Amazon Simple Email Service (SES) est un service d'envoi de courrier électronique basé sur un cloud conçu pour aider les spécialistes du marketing numérique et les développeurs d'applications à envoyer des courriels de marketing, de notification et transactionnels. C'est un service fiable et économique pour les entreprises de toutes tailles qui utilisent le courrier électronique pour rester en contact avec leurs clients.
+	3. SNS
 
 1. ## Github
     GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. Ce site est développé en Ruby on Rails et Erlang par Chris Wanstrath, PJ Hyett et Tom Preston-Werner. GitHub propose des comptes professionnels payants, ainsi que des comptes gratuits pour les projets de logiciels libres. Le site assure également un contrôle d'accès et des fonctionnalités destinées à la collaboration comme le suivi des bugs, les demandes de fonctionnalités, la gestion de tâches et un wiki pour chaque projet.
@@ -78,3 +79,4 @@ L'agence web française SensioLabs est à l'origine du framework Sensio Framewor
 
 1. ## Jira:
     Jira est un système de suivi de bugs, un système de gestion des incidents, et un système de gestion de projets développé par Atlassian.
+    

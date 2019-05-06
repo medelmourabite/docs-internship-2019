@@ -1,0 +1,67 @@
+1. TAMTAM internationnal
+TamTam international est une entreprise de développement
+et d’intégration de produits et solutions Web et mobile fondée en
+2013 par Mr. Emanuel degréve à Solvay, Belgique et a ouvert son
+bureau à Marrakech en 2015.
+Chaque entreprise se spécifies par 3 axes qui sont: son activité, ses clients et ses experiences.
+Je vais présenter l'entreprise Tamrtam en se focalisant sur les 3 axes:
+    1. L'activité:
+        L'entreprise Tamtam se distingue des autres entreprise sur le marché par sa philosophie, elle ne se specialise pas dans le developpement des solutions informatiques pour d'autres clients à la demande mais elle se focalise sur le developpement d'un ecosysteme pour la gestion de communités, et vise à devenir le leader sur le marché. cette ecosysteme offre plusieur solutions comme par example un blog, un outils pour la gestion des evenment, une platform d'emailing...
+
+        <-- Fiches des projets -->
+    2. Les clients:
+        Actuelement Tamtam visent le marché des fiduciaires et expert comptable en Belqique, les principaux clients sont:
+            IEC: IEC: Institut des Experts-comptables et des Conseils fiscaux - Belgique
+            UP: <-- plus infos -->
+            Deg & parteners: Deg & Partners , c'est: Un bureau comptable en pleine croissance, spécialisé dans les professions libérales, les artistes et les ASBL ( association sans but lucratif), et experte dans le passage ...
+    3. Les experiences:
+        <--- à ajouter des information --->
+    Projets:
+        TamTam API: qui est le noyaut de toutes les autres applications, elle gere l'authentification,
+        les sesions, et les accees au resources.
+        One: applications d'acceil qui regroupent des points de depart pour acceeder au autre applications.
+        Blog-workflow:
+        E-zine:
+        Media:
+        Emailing:
+        Bill@Box:
+        Data.be:
+        Membership:
+        Survey:
+        Talk:
+        WhereToBill
+
+2. Emailing:
+Emailing à été conçue par Tamtam pour pouvoir proposer à ses clients un système efficace de gestion de lettre d'information électronique «NewsLetters». parceque les solutions qui existent sur le marché (SendInBlue, Mailhcimp,...) ne réponds pas aux exigences compliqués de l'entreprise et au besoins de ses clients, l'integration des ses solutions avec l'API est complexe, ses solutions sont couteuse et limitées, est vont limité les evolutions futures.
+Une premiere version stable à été réalisé et ma mission c'est d'integré l'equipe qui se charge de se projet pour developé d'autres fonctionnalités et optimiser l'existant pour sortir en production avec une deuxieme version.
+<--- *** --->
+
+
+3.Methodologie de travail
+    3.1. Choix de la Methodologie de travail:
+        En termes de méthodes de travail, l’équipes de «TamTam» s'efforcent de suivre un ensemble de principes jugés pragmatiques pour développer et gérer les différents projets en cours. Ces principes découlent de quatre valeurs: l'équipe, l'application, la collaboration et l'acceptation du changement. Il s'agit des méthodes Agiles.
+        Pour «TamTam», la méthode agile la plus répandue est Scrum.
+        Scrum: D’avantage qu’une méthode formelle, Scrum peut être vu comme un Framework méthodologique,dont l’implémentation doit être ajustée en fonction des caractéristiques techniques, organisationnelles et culturelles des projets qui souhaitent la mettre en œuvre.
+    3.2. Répartitions des rôles dans Scrum:
+        Scrum identifie trois acteurs :
+            * Product Owner (Directeur de Produit), qui possède l’expertise fonctionnelle et qui réalise les arbitrages
+            nécessaires à la priorisation des développements. Son rôle est absolument essentiel, et son respect des
+            règles du jeu est la pierre angulaire du succès d’un projet agile, dans notre cas (IEC, FFF, UP ...) representer par Monsieur emmaneul Degréve
+            * Scrum Master, membre de l’équipe, et dont la tâche principale est d’optimiser la capacité de production de
+            l’équipe en l’aidant à travailler de façon autonome et à s’améliorer constamment. Il est également le garant de la bonne implémentation de Scrum. dans notre cas c'est Lidrissi Fatima Ezzahra.
+            * l’Équipe, qui prend en charge le développement du produit (planification, conception, codage, tests,
+            documentation) sans spécialisation des rôles. composé dans notre cas de 2 developpeurs.
+    3.3. Workflow:
+        L’unité de temps, dans Scrum, est le Sprint. Un sprint est une itération courte (de l’ordre de 2 semaines pour «TamTam») dont le périmètre est garanti et défini lors d’une cérémonie de planification initiale.
+        Chaque sprint commence par un Sprint planning et se termine par un Sprint Review
+            Sprint planning: 
+                l'equipe se réunie pour etudier les exigences fonctionnelles
+                les fonctionnalités sont devisé en taches
+                Chaque taches est attribuer un points par la methode du planning poker qui represente sa difficulté.
+                Une taches peut prendre soit: 1,2,3, 5, 8, 13, 21
+                Les taches sont distribué sur l'ensemble de l'equipe en fonction de l'expertise et des competence de chacun.
+            Sprint review:
+                L'équipe s'assemble pour présenter une demostration au PO.
+                Le PO valide l'etat d'avancement et proposent des changement.
+                Le PO aussi spécifies et explique le BR (Busniss Requirement) à developé pour les prochain sprints.
+        
